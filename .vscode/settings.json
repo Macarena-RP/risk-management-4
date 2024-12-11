@@ -4,6 +4,9 @@
       "**/.reuse": true,
       "**/.vscode": true,
       "LICENSES": true
+    },
+    "mdk.i18n": {
+      "displayLanguages": "i18n"
     }
   }
   
